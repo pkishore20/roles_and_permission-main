@@ -1,7 +1,7 @@
 ## How to run the code
 - git clone https://github.com/pkishore20/roles_and_permission-main.git
 - cp .env example as .env
-- cd musician
+- cd roles_and_permission-main
 - composer install/ composer update
 - npm install/ npm update
 - Create a DB as your wish(name)
