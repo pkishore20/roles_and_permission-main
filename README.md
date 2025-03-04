@@ -1,3 +1,30 @@
+## How to run the code
+- git clone https://github.com/pkishore20/roles_and_permission-main.git
+- cp .env example as .env
+- cd musician
+- composer install/ composer update
+- npm install/ npm update
+- Create a DB as your wish(name)
+- Run php artisan migrate:fresh --seed
+- Run "php artisan storage:link".
+- Finally, Run "php artisan serve"
+- Finally, Run2 "npm run dev"
+- Best of luck 
+
+
+## Credentials
+- #### Super Admin
+- email: superadmin@gmail.com
+- psd : password
+
+- #### Admin
+- email: admin@admin.com
+- psd: password
+
+- #### User
+- email: user@user.com
+- psd : password
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
